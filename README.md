@@ -48,3 +48,14 @@ numpy
 scipy
 
 matplotlib (optional; currently included but not essential for CLI output)
+
+
+
+📚 Applications
+This script is useful for:
+
+Civil Engineering students studying fluid mechanics or hydraulics.
+
+Simulating water distribution systems with PRV control.
+
+Practicing numerical methods in Python for engineering systems.
