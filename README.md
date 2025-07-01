@@ -1,4 +1,4 @@
-Pipe Network Analysis with Pressure Reducing Valve (PRV)
+**Pipe Network Analysis with Pressure Reducing Valve (PRV)**
 
 
 This project models and solves a hydraulic pipe network using Python. The analysis includes different operating conditions for a Pressure Reducing Valve (PRV), and computes flow rates, head losses, and nodal heads throughout the system.
